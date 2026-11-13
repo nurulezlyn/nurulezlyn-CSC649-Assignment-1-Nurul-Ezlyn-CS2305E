@@ -6,10 +6,10 @@ The staff in sterile processing and operating rooms must first tallied the surgi
 
 | Group | Role |
 |---|---|
-| Sterile processing staff (primary user) | Prepare, supervise and validate tray contents; may upload tray images. |
-| Operating theatre nurses (primary user) | Check tray contents before and after a procedure. |
-| Hospital management (stakeholder) | Concerned with patient safety and process efficiency. |
-| Patients (indirect beneficiary) | Benefit from safer instrument management. |
+| Sterile processing staff (primary user) | Main users who prepare, supervise, validate the contents of trays and could also upload tray images. |
+| Operating theatre nurses (primary user) | Assigned with examining the contents of surgical trays before and after a treatment procedure. |
+| Hospital management (stakeholder) | Stakeholders concerned about safety of the patients and efficiency of the process. |
+| Patients (indirect beneficiary) | Indirect recipients of improved processes ensuring the safety of instrument management. |
 
 ## Scope
 
