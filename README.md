@@ -7,8 +7,8 @@ The staff in sterile processing and operating rooms must first tallied the surgi
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
-- [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Requirements](docs/requirements.md)
 - [Specialized technology](docs/technology.md)
 - [References](docs/references.md)
 - [Sprint log](docs/sprint-log.md)
@@ -21,15 +21,15 @@ The staff in sterile processing and operating rooms must first tallied the surgi
 |-- .gitignore
 |-- docs/
 |   |-- problem-statement.md
-|   |-- requirements.md
 |   |-- user-stories.md
+|   |-- requirements.md
 |   |-- technology.md
 |   |-- references.md
 |   |-- sprint-log.md
 |-- src/
-    |-- README.md      
+    |-- README.md      (code will go here)
 ```
-c
+
 ## Roadmap
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
@@ -38,7 +38,7 @@ c
 - [ ] First prototype (later in the semester)
 
 ## Status
-Assignment 1 (CSC649, Week 7): documentation stage. No code yet, the system has not been built.
+Assignment 1 (CSC649, Week 7)documentation stage completed.
 
 ## Author
-[Nurul Ezlyn Mohd Azmi], CSC649, UiTM
+[NURUL EZLYN MOHD AZMI], CSC649, UiTM
